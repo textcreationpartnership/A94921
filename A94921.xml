@@ -1,0 +1,336 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True and impartial account of the birth, parentage, education, life, and conversation of Edmund Audley who was executed at Tyburn on Wednesday the 22d of June, 1698, for the barbarous murther of Mrs. Hannah Bullevant in St. Martins Le Grand, near Aldersgate : as also, an account of his marriage to a ministers daughter at Exeter ... to which is added, the particulars of his tryal and condemnation ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94921</idno>
+            <idno type="STC">Wing T2490</idno>
+            <idno type="STC">ESTC R43783</idno>
+            <idno type="EEBO-CITATION">42475238</idno>
+            <idno type="OCLC">ocm 42475238</idno>
+            <idno type="VID">151397</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94921)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151397)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2258:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True and impartial account of the birth, parentage, education, life, and conversation of Edmund Audley who was executed at Tyburn on Wednesday the 22d of June, 1698, for the barbarous murther of Mrs. Hannah Bullevant in St. Martins Le Grand, near Aldersgate : as also, an account of his marriage to a ministers daughter at Exeter ... to which is added, the particulars of his tryal and condemnation ...</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.B. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, torn, tightly bound, and with print show-through and loss of text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Audley, Edmund.</term>
+               <term>Trials (Murder) --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151397:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <p>A True and Impartial ACCOUNT OF THE <hi>Birth, Parentage, Education, Life</hi> and <hi>Converſation</hi> OF <hi>Edmund Audley,</hi> Who was Executed at <hi>Tyburn</hi> on <hi>Wedneſday</hi> the 22d. of <hi>June,</hi> 1698. for the Barbarous Murther of Mrs. <hi>Hannah Bullevant</hi> in St. <hi>Martins le Grand,</hi> near <hi>Alderſgate.</hi>
+            </p>
+            <p>AS ALSO, An Account of his Marriage with a Miniſters Daugh<g ref="char:EOLhyphen"/>ter at <hi>Exeter;</hi> the occaſion of his leaving her, and his coming to <hi>London;</hi> with other ſtrange paſſages of his Life from his Birth, to the time of his ſhame<g ref="char:EOLhyphen"/>ful Death.</p>
+            <p>
+               <hi>To which is added,</hi> The Particulars of his <hi>Tryal</hi> and <hi>Condemnation;</hi> as alſo his Diſputes with ſeveral <hi>Divines</hi> in <hi>Newgate,</hi> to<g ref="char:EOLhyphen"/>gether with his <hi>Speech</hi> and <hi>Confeſſion</hi> at the place of Execution.</p>
+            <p>
+               <gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ikewiſe, An Account of the ſad Accident that hap<g ref="char:EOLhyphen"/>pened at his going out of <hi>Newgate,</hi> by the Fall of St. <hi>Pulchers</hi>-Church-Wall, which killed ſeveral Per<g ref="char:EOLhyphen"/>ſons, and dangerouſly wounder many others.</p>
+            <p>Licenſed according to Order.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. R.</hi> in <hi>Little Britain,</hi> 1698.</p>
+            <pb facs="tcp:151397:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <pb facs="tcp:151397:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:151397:3"/>
+            <!-- PDF PAGE 9 -->
+            <head>A True and Impartial Account of the Birth, Pa<g ref="char:EOLhyphen"/>rentage, Life and Converſation of <hi>Edmund Audley,</hi> &amp;c.</head>
+            <p>MR. <hi>Edmund Audley</hi> was Born at <hi>Swanſey</hi> (it being a Sea-Port in <hi>Clamorganſhire</hi> in <hi>Wales</hi>) <hi>Anno</hi> 1661. His Father Mr. <hi>Humphrey Audley</hi> being a Merchant, who dealt in moſt ſorts of Commodities, and lived in good Credit and Reputation, being no leſs beloved than well known in thoſe parts, having two Sons and two Daughters, the eldeſt of the Sons was this <hi>Edmond,</hi> to whom he gave good Education, in order to qualifie him for the management of his buſineſs in the way of Merchandizing. How<g ref="char:EOLhyphen"/>ever, finding his Inclinations wholly bent to Learning, and ſeeing he had improved himſelf therein, ſo far as to attain Arithmetick, fair Wri<g ref="char:EOLhyphen"/>ting, and ſeveral parts of the Mathematicks; his Father adviſed him to keep a School in <hi>Swanſey,</hi> which he willingly aſſented to, and accordingly continued in that Station with indifferent ſucceſs for two or three years; but being of a mutable and unſettled Fancy, he deſired of his Father to procure him a place of Reſidence at <hi>Exeter,</hi> 
+               <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> order for a School there, which in a ſhort tim<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was effected, and that ſeemingly to his ſatisfactio<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> However, he had not been long in <hi>Exeter</hi> befo<gap reason="illegible: page cropped" extent="2 letters">
+                  <desc>••</desc>
+               </gap> he fell in Love with a Beautiful Young Wom<gap reason="illegible: page cropped" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>
+               <pb n="3" facs="tcp:151397:3"/>
+               <!-- PDF PAGE 9 -->Daughter to an Nonconformiſt Miniſter, whoſe Father had a reſpect for him, upon the account of his Parents, whom he knew, but not ſo much as to make him his Son in Law, which Mr. <hi>Edmond</hi> perceiving, and knowing the Maid had a more than ordinary Love for him, took the advantage of the Old Gentlemans abſence one Evening, and ſtole her away privately in the Night; And the next Morning three or four Miles from thence, was Married together, contrary to the knowledge of her Father and Mother: Which news, tho' very unwelcome to them, yet conſidering it was paſt Remedy, they inſtantly ſent for their Son and Daughter, and in ſhort, a Reconciliation was made, and Mr. <hi>Audley</hi> and his Bride were admitted into the number of their Family, where they lived lovingly together for ſome time, till a ſtrange Whimſey (or rather Jealous Humour) poſſeſſed his Noddle, that his Wife was Diſloyal, though he could never ſhew any juſt ground for that ſuſpition, yet his Jealouſie encreaſing, (it being a Fire which is ſooner kindled, than extin<g ref="char:EOLhyphen"/>guiſhed) he ſecretly made a motion to ſome Mini<g ref="char:EOLhyphen"/>ſters for a Divorcement; but not being able to give a juſt Reaſon for ſuch a ſeparation, his Moti<g ref="char:EOLhyphen"/>on was not only rejected, but himſelf much re<g ref="char:EOLhyphen"/>proved, for having ſuch an unworthy opinion of an Innocent and Vertuous Woman (for ſo ſhe was generally eſteem'd) However, being much perplexed, he takes a Horſe, (ſome ſay without leave) it being in the Year 1695. and comes to
+<pb n="4" facs="tcp:151397:4"/>
+               <!-- PDF PAGE 10 -->
+               <hi>London,</hi> leaving his Wife with Child, who no ſooner underſtood of his rude and abrubted de<g ref="char:EOLhyphen"/>parture, but miſcarried, and ſoon after dyed.</p>
+            <p>I ſhall omit particularizing his undecent Beha<g ref="char:EOLhyphen"/>viour towards her before his departure, and of his attempting to ſell her, being loath to reflect too much upon the unhappy Memory of this un<g ref="char:EOLhyphen"/>fortunate Perſon, and that chiefly for the ſake of his Father and Mother, who at the writing hereof were both living at the place aforeſaid, being very Godly, Religious, and honeſt People.</p>
+            <p>Being come to <hi>London,</hi> he much frequented the Company of the Diſſenting Clergy, and uſed all the endeavours poſſible to advance himſelf to the Miniſtry, having procured a Letter from an Emi<g ref="char:EOLhyphen"/>nent Nonconformiſt Miniſter of the <hi>Weſt</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> by way of Recommendation to Mr. <hi>James,</hi> whoſe Meeting is in <hi>Nightingale-Lane</hi> in <hi>Eaſt-Smithfield,</hi> where he was admitted to Preach ſeveral times; and was alſo introduced to Preach ſeveral times in many <hi>Presbyterian</hi> Meetings in and about <hi>London,</hi> particularly in <hi>Southwark,</hi> &amp;c. However, having no fix'd Station aſſign'd him, he at laſt became Uſher to a School near <hi>Eaſtcheap,</hi> where his Revenue only amounted to 5 <hi>s. per</hi> Week and Dyet; but his Pride and lofty Spirit ſoon put him out of that mean (tho' honeſt) Im<g ref="char:EOLhyphen"/>ploy, often ſaying (to uſe his own Expreſſions) <hi>That he was called to proclaim the Goſpel;</hi> but whether with Sword and Piſtol, I leave the Reader to judge, for he was often obſerved b<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="5" facs="tcp:151397:4"/>
+               <!-- PDF PAGE 10 -->his Landlady (where he lodged about a twelve Month ſince) to threaten ſeveral Perſons (whom <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e called Traytors and Conſpirators) with ſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere puniſhments, if he could bring his Buſineſs <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bout, which in part he perform'd upon the Per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on of Mrs. <hi>Bullivant,</hi> as hereafter will appear.</p>
+            <p>Having ofren frequented many Meeting-houſes, and Preached in others, he of late much uſed to come to Mr. <hi>Dolittle</hi>'s meeting in <hi>Silver-ſtreet;</hi> and we under<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>and by his own Confeſſion ſince, that he much ob<g ref="char:EOLhyphen"/>ſerved one Mrs, <hi>Hannah Bullivant,</hi> pretending that ſhe was in a Plot againſt the King and Government, though I believe there's more in it than he has declared) he goes to Mr. <hi>Taylor</hi> a Gun-Smith near <hi>Algate,</hi> and asked him, If a Gentleman had not been there over Night for a pair of Piſtols; and being an<g ref="char:EOLhyphen"/>ſwered in the Affirmative, he ſaid he came for them, and in ſhort, they made a Bargain. During which time, Mr. <hi>Audley</hi> behaved himſelf like a warey Buyer, and not like one diſtracted, as the Gun-Smith made Oath of at his Tryal: Having paid for them, he gets ſuitable Amunition, and a Sword by his ſide, as alſo a Lathing-Hammer in his Britches, and goes ſometime after to the Meeting-houſe in <hi>Silver-ſtreet,</hi> where he finds Mrs. <hi>Bullivant,</hi> his pretended King-killer, but whether he minded the Sermon or Mrs. <hi>Bullivant</hi> moſt, may be eaſily judged by the following diſcourſe.</p>
+            <p>The Meeting being done, out comes <hi>Audley</hi> to watch for this ſuppoſed Traytoriſs, but not being willing to put his barbarous deſign in Execution, where ſo many People were together, (as fearing to kill the Righteous with the Wicked,) he followed her till ſhe went in<g ref="char:EOLhyphen"/>to a Shop in <hi>Silver-ſtreet,</hi> where having occaſion to ſtay about half an hour, <hi>Audley</hi> walked backward and for<g ref="char:EOLhyphen"/>ward till ſhe came out, and then he dogg'd her into
+<pb n="6" facs="tcp:151397:5"/>
+               <!-- PDF PAGE 11 -->Saint <hi>Martins le Grand,</hi> near <hi>Alderſgate,</hi> where ſeeing the Street clear of People, fired one of his Piſtols at her which tho' it miſſed, yet the noiſe ſo affrighted her (be<g ref="char:EOLhyphen"/>ing ſo nigh) that ſhe ran directly into a Glovers Shop at the Corner of <hi>Bell-Court,</hi> where he cloſely followed her, and Shot her dead with the other Piſtol upon the place; whereupon he was ſeized, and that Evening be<g ref="char:EOLunhyphen"/>ing the firſt of <hi>June,</hi> was by Sir <hi>Edward Clark</hi> commit<g ref="char:EOLunhyphen"/>ted to <hi>Newgate,</hi> where he remain'd till <hi>Thurſday, June</hi> the 9th. at which time he was brought to the Bar a<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Old-Baily,</hi> where he was Indicted for the aforeſaid Barbarous Murther, who after the Jury was call'd and ſworn, had the boldneſs (or rather Impudence) to ex<g ref="char:EOLunhyphen"/>cept both againſt Judges and Jury too, telling the Cour<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>That they were concern'd in a Plot and Conſpiracy againſt the King, and therefore he appeal'd to the King and Council to be tryed:</hi> Adding, <hi>That he would not be tryed by thoſe wh<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> were Enemies to the King and Government.</hi> However, the Court rejecting his frivolous and trifling Arguments proceeded to his Tryal. And being asked whether Guil<g ref="char:EOLunhyphen"/>ty or not? he ſaid, He owned that he kill'd the Wo<g ref="char:EOLunhyphen"/>man, but pleaded Not Guilty of the Murther, alled<g ref="char:EOLunhyphen"/>ging, That the deceaſed was (with ſeveral others) con<g ref="char:EOLhyphen"/>cern'd in a Plot to take away the King's Life, and tha<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he had been at ſeveral Magiſtrates (whom he named in order to have her and others Apprehended, and find<g ref="char:EOLhyphen"/>ing no Warrant could be obtain'd, and the King and Nation in danger, he conceived it lawful in ſuch a de<g ref="char:EOLunhyphen"/>ſperate caſe to execute Juſtice himſelf. Whereupon four Evidences ſucceſſively were called, who depoſe<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> That the Priſoner purſued Mrs. <hi>Bullivant,</hi> ſhooting o<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Piſtol at her in St. <hi>Martins</hi> near <hi>Alderſgate,</hi> and afte<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>wards followed her into a Glovers Shop in <hi>Bell-Co<gap reason="illegible: in gutter" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>
+               </hi> and there ſhot her on the left ſide of the Body, of whi<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Wound ſhe immediately dyed: And further depoſe<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> That he ſaid that he had killed Queen <hi>Mary,</hi> who ha<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="7" facs="tcp:151397:5"/>
+               <!-- PDF PAGE 11 -->been there Incognito, and that he endeavoured to eſcape. <gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ther Evidences depoſed, That they had ſeveral times <gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rd the Priſoner Preach at Meeting-houſes, and ne<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>er could perceive either in his Behaviour or Diſcourſe, <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat he was any ways troubled with Madneſs, Frenzey, <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r any thing like being Craiz'd or Diſtracted. And <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing asked ſome Queſtions of his knowledge, relating <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the particulars of his Pretended Plot, he ſaid, <hi>That <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f he made Confeſſion in Court, it was the way to have the <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lotters eſcape:</hi> But added, <hi>that he knew of</hi> 30 <hi>Waggon <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oad of Arms which was brought into the City for the late King</hi> James<hi>'s Service one morning before day, and that he <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad ſeen the Prince of</hi> Wales <hi>in the</hi> Lobby Chamber; <hi>and <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat he had kill'd the Woman, ſuppoſing her to be the late Queen, having ſeen her often at</hi> Mr. Dolittle<hi>'s Meeting-<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ouſe.</hi> But being told that King <hi>James</hi>'s Queen was of <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> contrary Religion to come to a Meeting-houſe. He <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eplyed, <hi>That the very Devils could transform themſelves <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto Angels of Light.</hi> However, the Evidence being <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lain and full, the Jury thereupon brought him in Guilty of <hi>Wilful Murther;</hi> and on the <hi>Monday</hi> follow<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng he received Sentence of Death for the ſame.</p>
+            <p>
+               <hi>His Conference with ſeveral Divines, during his Confinement in</hi> New<g ref="char:EOLhyphen"/>gate <hi>ſome Dayes before Execution, concerning the Barbarous Murther of Mrs.</hi> Bullivant.</p>
+            <p>A Learned Divine of the Church of <hi>England</hi> told him. That by <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his cruel Murther, he had ſtained the <hi>Chriſtians Religion</hi> he profeſſed. He replyed, That tho' many apprehended it to be a Bloody Fact, yet <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e thought otherwiſe of it, by reaſon he thought that Mrs. <hi>Bullivant</hi> was in a wicked Conſpiracy againſt the preſent Government. But being told, A private Perſon ought not to have killed her, but rather have accuſed her in ſome Lawful Court of Juſtice. He ſaid, He con<g ref="char:EOLhyphen"/>ceived the Fact to be no Murther, by reaſon his Conſcience ſtirred him up to perform it. But he was told, That was a wicked and Deviliſh <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>word. And further asked him, Whether any one had hired him to <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urther her. He anſwered in the Negative. And being further <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſtion'd, What was the grounds of his Malice againſt her? He <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>rly reply'd, That he would give no further Account than what he
+<pb n="8" facs="tcp:151397:6"/>
+               <!-- PDF PAGE 12 -->had done already. And ſeem'd much to depend upon his <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ceited knowledge, and continued very ſullen and obſtinate, tho' <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> way reſembling a Lunatick, or diſtracted Perſon, either in Di<gap reason="illegible: damage" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> or Behaviour, as Dr. <hi>Bedford</hi> and ſeveral other Divines can witness.</p>
+            <p>On the 22d of <hi>June,</hi> about Noon, Mr. <hi>Edmond Audley</hi> was conve<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed from <hi>Newgate</hi> to <hi>Tyburn</hi> in a Cart with two other Criminals; <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> appeared very obſtinate and wilful for a conſiderable time, who b<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing asked; What induced him to kill Mrs. <hi>Bullivant?</hi> He ſaid, <hi>He d<gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> it for the common good of the Kingdom:</hi> And continued to repeat h<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> former Whimſical Stories of a <hi>Plot againſt the King;</hi> and upon th<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ordinary's telling him, That 'twas ſuppoſed he killed her upon h<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> preventing his Marriage with a Young Gentlewoman. He ſaid, <hi>was very falſe,</hi> and added, <hi>that there was a Conſpiracy to bring in t<gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> late</hi> King James; wiſhing, <hi>that he had an oppertunity to declare his mi<gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to the King about it,</hi> adding <hi>that he knew ſeveral of the Plotters;</hi> b<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> being deſired to declare who they were, He ſaid, <hi>he would make Confeſſion to any but his Majeſty.</hi> Whereupon it Was demanded in wh<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Profeſſion he Dyed, He ſaid, <hi>in the Faith of a Chriſtian as revailed the Scripture, deſiring the Miniſters not to ask him any more Queſtions hinder his Devotions.</hi> So after having refuſed to join in Prayer wi<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Ordinary, he made a ſhort and ſilent Prayer to himſelf, and was turn'd off with the reſt of the Criminals.</p>
+            <p>At his going from <hi>Newgate</hi> with the other Crm<gap reason="illegible: damage" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>als, a ver<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Strange and Surprizing Accident happned, for juſt before the Ca<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> (wherein he was with two other Criminals, reached the end of S<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Pulchers</hi> Church-yard, the Wall being thronged and Loaded with Crou<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Numerous Spectators who preſſed to ſee him, the greateſt part <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it fell Flat to the Ground, almoſt from one end to the other, and wit<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it Multitudes of People one upon another, doing Extraordinary D<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mage, Killing a VVine Porter out right, who Dwelt in <hi>Nightingga<gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Lane,</hi> and with the violence of its fall, Miſerably Squeezed to peic<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Armes, Leggs, Backs and Thighs of many, (Some ſays) to th<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Number af above 40 Perſons, 4 or 5 of which are ſince Dead of the<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> VVounds, and tis Doubted that ſeveral of the reſt are Mortally hu<gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> This unhappy Accident obliged the Officers to Convey the Criminal<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> through Pye-Corner and ſo down Hoſier-L<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, the like having n<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> been known in the Memory of any Man Living before.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151397:6"/>
+            <!-- PDF PAGE 12 -->
+         </div>
+      </body>
+   </text>
+</TEI>
